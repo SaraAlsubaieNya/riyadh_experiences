@@ -1,0 +1,658 @@
+{
+  "type": "FeatureCollection",
+  "name": "riyadh_experiences_geocoded",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7374722,
+          24.6751111
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Riyadh National Zoo",
+        "description": "Visit Riyadh Zoo, Saudi Arabia’s largest and oldest, home to 1,300 animals from 190 species, offering train rides and performances.",
+        "reference_link": "Riyadh Zoo Instagram",
+        "category": "Nature & Parks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6259444,
+          24.6678611
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Via Riyadh",
+        "description": "VIA Riyadh offers luxury with the St. Regis hotel, designer stores, top restaurants, and the exclusive Renaissance cinema experience.",
+        "reference_link": "Via Riyadh Instagram",
+        "category": "Shopping & Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7092778,
+          24.6463889
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Murabba Palace",
+        "description": "Al Murabba Historical Palace in Riyadh is a symbol of the city’s rich history, preserving memories of key historical events.",
+        "reference_link": "Al Murabba Historical Palace Website",
+        "category": "Heritage & History"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7145556,
+          24.6295556
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Addoho Neighborhood",
+        "description": "Addoho Neighborhood is the last old neighborhood preserving its traditional Najdi architecture, but with modern amenities.",
+        "reference_link": "Addoho Neighborhood Website",
+        "category": "Heritage & History"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6795833,
+          24.572
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Wadi Namar Waterfall",
+        "description": "Wadi Namar Waterfall and Dam Park in Riyadh is a beautiful green area with lovely views, picnic sites, and fun activities.",
+        "reference_link": "Wadi Namar Website",
+        "category": "Nature & Parks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7134444,
+          24.6311389
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Al Masmak Palace Museum",
+        "description": "Al Masmak Fortress, built during Imam Abdullah's reign, is a historic monument celebrating the unification of Saudi Arabia.",
+        "reference_link": "MOC Website",
+        "category": "Heritage & History"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7112778,
+          24.64825
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "National Museum Of Saudi Arabia",
+        "description": "Explore Saudi Arabia’s history at the National Museum, featuring over 3,700 artifacts of Islamic heritage across 17,000 square meters.",
+        "reference_link": "National Museum Of Saudi Arabia Instagram",
+        "category": "Museums"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.535148,
+          24.745196
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Jax District",
+        "description": "This trendy Diriyah neighborhood offers street art, galleries, and creative studios, hosting festivals like MDLBEAST and Noor Riyadh.",
+        "reference_link": "Jax District Website",
+        "category": "Art & Culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.57475,
+          24.7335556
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "At-Turaif World Heritage Site",
+        "description": "The UNESCO World Heritage At-Turaif Site features mud-brick palaces, mosques, museums, and Najdi architecture.",
+        "reference_link": "At-Turaif World Heritage Site - Diriyah Website",
+        "category": "Heritage & History"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5751944,
+          24.7337222
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Diriyah History Museum",
+        "description": "Visit Diriyah Museum to explore an 18th-century palace, showcasing the history of the region, the House of Saud, and Najdi architecture.",
+        "reference_link": "Diriyah History Museum - Diriyah Website",
+        "category": "Museums"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5748611,
+          24.7373056
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Bujairi Terrace",
+        "description": "Bujairi Terrace in Diriyah offers over 20 world-class dining options, cultural events, and views of UNESCO World Heritage site At-Turaif.",
+        "reference_link": "Bujairi Terrace Instagram",
+        "category": "Dining & Entertainment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6426389,
+          24.7640278
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "KAFD",
+        "description": "King Abdullah Financial District (KAFD) boasts modern architecture, green spaces, and advanced urban infrastructure.",
+        "reference_link": "KAFD Instagram",
+        "category": "Urban Landmark"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6664167,
+          24.702
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Naila Art Gallery",
+        "description": "Naila Gallery, founded in 2012 by Mrs. Naifa AlFayez, is Riyadh's leading art venue, hosting artworks from over 400 artists.",
+        "reference_link": "Naila Art Gallery Website",
+        "category": "Art & Culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6125,
+          24.7876389
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Al Ajlan Art Gallery",
+        "description": "Al Ajlan Gallery, founded by Mohammed Al Ajlan in 2018, exhibits his unique art blending Islamic heritage, poetry, and symbolism.",
+        "reference_link": "Al Ajlan Art Gallery Website",
+        "category": "Art & Culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6161111,
+          24.7473056
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Abstract Art Gallery",
+        "description": "The Abstract Art Gallery showcases local art pioneers and celebrates cultural and popular legacies.",
+        "reference_link": "Abstract Art Gallery Instagram",
+        "category": "Art & Culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6334722,
+          25.2428889
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "King Khaled Royal Reserve (Urmah)",
+        "description": "The King Khaled Royal Reserve is an 11,300-square-km wildlife sanctuary, home to endangered species and diverse ecosystems.",
+        "reference_link": "King Khaled Royal Reserve - IARDA Website",
+        "category": "Nature & Parks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6493611,
+          24.73175
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "The Zone",
+        "description": "The Zone is a luxury outdoor lifestyle complex with upscale retail, exquisite dining, and vibrant city life.",
+        "reference_link": "The Zone Instagram",
+        "category": "Shopping & Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6053889,
+          24.7690556
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Boulevard City",
+        "description": "Boulevard City offers shopping, dining, and entertainment year-round, with activities like go-kart racing, skiing, and performances.",
+        "reference_link": "Boulevard City Instagram",
+        "category": "Dining & Entertainment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6862222,
+          24.6856944
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "King Fahad National Library",
+        "description": "The King Fahad National Library was created as a tribute to King Salman, evolving from a public to a national library with citizen support.",
+        "reference_link": "King Fahad National Library Website",
+        "category": "Education"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6328889,
+          24.6920833
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Laysen Valley",
+        "description": "Laysen Valley, part of Saudi Arabia's Vision 2030, aims to enhance quality of life, trade, and economic growth in Riyadh.",
+        "reference_link": "Laysen Valley Website",
+        "category": "Urban Landmark"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7326389,
+          24.8416389
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Roshn Front",
+        "description": "Roshn Front is a stylish mall features a water fountain, shops, fine dining and an outdoor movie theater.",
+        "reference_link": "Roshn Front Website",
+        "category": "Shopping & Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7846944,
+          24.9858056
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "King Abdulaziz Equestrian Field",
+        "description": "King Abdulaziz Equestrian Field is a great place for horse racing fans, featuring beautiful Arabian horses and exciting events for all ages.",
+        "reference_link": "King Abdulaziz Equestrian Field Website",
+        "category": "Sports & Recreation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7108056,
+          24.6310556
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Imam Turki Bin Abdullah Grand Mosque",
+        "description": "Imam Turki Bin Abdullah Grand Mosque is a historic site with peaceful prayer spaces and beautiful traditional Islamic architecture in Riyadh’s center.",
+        "reference_link": "Imam Turki bin Abdullah Grand Mosque - RCRC Website",
+        "category": "Religious Sites"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6388889,
+          24.7612222
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "KAFD Grand Mosque",
+        "description": "The KAFD Grand Mosque, inspired by the desert rose, features a triangular design blending modern and Islamic architecture for a unique experience.",
+        "reference_link": "KAFD Grand Mosque - KAFD Website",
+        "category": "Religious Sites"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7209167,
+          24.8753333
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "KAPSARC Mosque",
+        "description": "The KAPSARC Mosque combines modern design with Islamic traditions, offering a calm and inspiring space for prayer and reflection in Riyadh.",
+        "reference_link": "KAPSARC Mosque - KAPSARC Website",
+        "category": "Religious Sites"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7392222,
+          24.7539444
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Saqr Al-Jazira Aviation Museum",
+        "description": "Saqr Al-Jazira Aviation Museum showcases Saudi Arabia's aviation history with iconic planes and exhibits, perfect for aviation fans and families alike.",
+        "reference_link": "Saqer Al-Jazirah Royal Air Force Museum - MOD Website",
+        "category": "Museums"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7374167,
+          24.6658333
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "King Abdullah Park",
+        "description": "King Abdullah Park is a beautiful green space with walking paths, fountains, and lakes, ideal for family outings and relaxation.",
+        "reference_link": "King Abdullah Park X",
+        "category": "Nature & Parks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5814167,
+          24.4590833
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Dirab Park",
+        "description": "Dirab Park features Saudi Arabia’s first FIA-approved drag strip and scenic landscapes, ideal for motorsport fans and nature lovers.",
+        "reference_link": "Dirab Park Instagram",
+        "category": "Sports & Recreation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5717222,
+          24.7417778
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Al Samhaniya",
+        "description": "Explore Diriyah’s renovated streets with traditional homes, murals, cafes, and boutiques, including Bonjour Saudi’s design house, for unique finds.",
+        "reference_link": "Samhaniya - Bonjour Saudi Instagram",
+        "category": "Art & Culture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7248889,
+          24.8465
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Central Library of Princess Nourah",
+        "description": "The Central Library at Princess Noura University is a modern, spacious study and learning hub under a futuristic glass dome.",
+        "reference_link": "Princess Nourah University Website",
+        "category": "Education"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6228333,
+          24.69325
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Attache",
+        "description": "MDLBEAST's new venue is a converted stable-turned-nightclub with a unique theme and an attached restaurant.",
+        "reference_link": "Attache Website",
+        "category": "Dining & Entertainment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5718056,
+          24.7412778
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Museum of Bygone Years",
+        "description": "Visit the museum that showcases Saudi Arabia’s cultural evolution through exhibits highlighting its rich history, traditions, and heritage.",
+        "reference_link": "Museum of Bygone Years Instagram",
+        "category": "Museums"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8233343,
+          24.7841075
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Al-Hamdan Heritage Museum",
+        "description": "Al Hamdan Heritage Museum takes you through Riyadh’s history with traditional artifacts reflecting the region’s traditions and cultural lifestyle.",
+        "reference_link": "Al-Hamdan Heritage Museum Instagram",
+        "category": "Museums"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.254,
+          25.2541667
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Al-Subaie Palace",
+        "description": "Al-Subaie Heritage House, located in Shaqra, is a historic museum showcasing traditional Najdi architecture and offering insights into the region's history.",
+        "reference_link": "Al-Subaie Palace - Visit Saudi Website",
+        "category": "Heritage & History"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7119167,
+          24.6307222
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Al Safat Square (Justice Square)",
+        "description": "The square contains a big open market area and a few surrounding coffee shops. Many national celebrations are held in this square.",
+        "reference_link": "Al Safat Square (Justice Square)",
+        "category": "Heritage & History"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6749444,
+          24.7103333
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Kingdom Center Sky Bridge",
+        "description": "Kingdom Center Sky Bridge is a 300m-high observation deck in Riyadh, offering panoramic city views. Accessible via a high-speed elevator, it's a top tourist attraction open daily.",
+        "reference_link": "No SM/REFERENCE LINKS",
+        "category": "Urban Landmark"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5590556,
+          24.5812778
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Al Nassr Football Club",
+        "description": "Al Nassr Football Club is a legendary Saudi team with a rich history, passionate fan base, and thrilling matches that fans can enjoy.",
+        "reference_link": "Al Nassr Football Club Instagram",
+        "category": "Sports & Recreation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5733056,
+          24.7395833
+        ]
+      },
+      "properties": {
+        "destination": "Ryiadh",
+        "name": "Diriyah Art Futures",
+        "description": "DAF is the first-ever new media art gallery in the region and is known for celebrating modern art in traditional settings. It is also a learning hub for those interested in new media",
+        "reference_link": "Diriyah Art Futures Instagram Link",
+        "category": "Art & Culture"
+      }
+    }
+  ]
+}
