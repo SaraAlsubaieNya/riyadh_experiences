@@ -32,7 +32,12 @@ jupyter notebook code.ipynb
 ##  Data
  
 Experience coordinates hand-collected from Google Maps. Metro & bus data from [Riyadh Open Data](https://www.data.gov.sa/).
- 
+
+ ## screenshots 
+ <img width="2852" height="1484" alt="Image 21-04-2026 at 12 57 PM" src="https://github.com/user-attachments/assets/2d6f779c-b980-478f-8440-64a8a0dfd4a7" />
+<img width="2873" height="1467" alt="Image 21-04-2026 at 12 56 PM" src="https://github.com/user-attachments/assets/a433cc46-0f46-41bf-b491-5021ab8e05f4" />
+<img width="2874" height="1486" alt="Image 21-04-2026 at 12 48 PM (1)" src="https://github.com/user-attachments/assets/86f8552f-19c2-4ef9-a91f-ef72cf3e8c95" />
+
 ---
  
 *Built as a spatial data science project exploring Riyadh's transit accessibility.*
